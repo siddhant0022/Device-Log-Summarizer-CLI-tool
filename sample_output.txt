@@ -1,0 +1,12 @@
+Note: skipped 2 bad row(s).
+Processed 19 rows, 5 devices.
+Removed 1 device(s) with avg temp above 80.0.
+Saved results to summary.json
+
+Device       Records    Avg Temp    Errors
+------------------------------------------
+DEV_A              4       47.27         0
+DEV_C              4       63.30         1
+DEV_D              3       35.17         0
+DEV_E              3       74.83         1
+
